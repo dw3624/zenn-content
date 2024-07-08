@@ -1,0 +1,11 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dw3624/zenn-content.git",
+  "author": "dongwon kang <dw3624@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.154"
+  }
+}
